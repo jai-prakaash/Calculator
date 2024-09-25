@@ -1,0 +1,42 @@
+body{
+    background: #000;
+}
+
+.normal{
+    height: 40px;
+    width: 40px;
+    padding: 10px 14px;
+    background: #333232;
+    color: aliceblue;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.color{
+    height: 40px;
+    width: 40px;
+padding: 10px 14px;
+background: #eb1616;
+border: none;
+border-radius: 50px;
+cursor: pointer;
+}
+
+.show{
+    border: none;
+    padding: 10px;
+    background-color: #3a2525;
+    color: aqua;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.normaly{
+    padding: 10px 14px;
+    background: #333232;
+    color: aliceblue;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
